@@ -12,7 +12,7 @@ Tools::~Tools() {}
 VectorXd Tools::CalculateRMSE(const vector<VectorXd> &estimations,
                               const vector<VectorXd> &ground_truth) {
   /**
-   * TODO: Calculate the RMSE here.
+   * TODO: Calculate the RMSE here
    */
   //  The estimation vector size should not be zero
   //  The estimation vector size should equal ground truth vector size
