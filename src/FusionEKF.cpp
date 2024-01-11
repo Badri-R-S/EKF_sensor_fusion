@@ -9,7 +9,7 @@ using std::cout;
 using std::endl;
 using std::vector;
 
-/**
+/*
  * Constructor.
  */
 FusionEKF::FusionEKF() {
