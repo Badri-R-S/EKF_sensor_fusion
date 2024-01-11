@@ -7,7 +7,7 @@
 class Tools {
  public:
   /**
-   * Constructor.
+   * Constructor
    */
   Tools();
 
