@@ -13,7 +13,7 @@ using std::vector;
 // for convenience
 using json = nlohmann::json;
 
-// Checks if the SocketIO event has JSON data.
+// Checks if the SocketIO event has JSON data
 // If there is data the JSON object in string format will be returned,
 // else the empty string "" will be returned.
 string hasData(string s) {
