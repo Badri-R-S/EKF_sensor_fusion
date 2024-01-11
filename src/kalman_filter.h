@@ -10,7 +10,7 @@ class KalmanFilter {
    */
   KalmanFilter();
 
-  /**
+  /*
    * Destructor
    */
   virtual ~KalmanFilter();
