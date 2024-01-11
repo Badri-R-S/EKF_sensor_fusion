@@ -11,7 +11,7 @@
 
 class FusionEKF {
  public:
-  /**
+  /*
    * Constructor.
    */
   FusionEKF();
